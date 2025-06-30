@@ -1,11 +1,11 @@
 main:
-  - title: "년도별 글"
-    url: /posts/
+  - title: "개발일지"   # ✅ 추가된 개발일지
+    url: /devlog/
   - title: "개발분야"
     url: /categories/
   - title: "개발도구"
     url: /tags/
-  - title: "개발일지"   # ✅ 추가된 개발일지
-    url: /devlog/
+  - title: "년도별 글"
+    url: /posts/
   - title: "블로그 소개"
     url: /about/
